@@ -1,1 +1,2 @@
-# - step by step list of the technical side based on the brief just in case I miss or misinterpret something
+# AI use 
+1. used Copilot to generate a step by step list of the technical side based on the brief just in case I miss or misinterpret something
