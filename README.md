@@ -20,7 +20,12 @@ What has, nonetheless, surprised me is the shift in the third point -- that codi
 ## Conclusion
 
 # References
-https://www.hec.edu/en/dare/innovation-entrepreneurship/ai-reshaping-creative-economy
-https://www.scientificamerican.com/article/survey-results-show-people-prefer-more-human-involvement-in-ai-driven-art/
-https://bworldonline.com/bloomberg/2026/08/07/768577/ai-didnt-ruin-these-films-it-made-them-possible/
-https://blog.routledge.com/humanities-and-media-arts/ai-in-the-media-industry-a-miracle-or-a-minefield/
+
+Bloomberg News. (2026, August 7). *AI didn’t ruin these films—it made them possible*. BusinessWorld Online. https://bworldonline.com/bloomberg/2026/08/07/768577/ai-didnt-ruin-these-films-it-made-them-possible/
+
+Paris, T. (2025, January 29). *AI is reshaping the creative economy*. HEC Paris. https://www.hec.edu/en/dare/innovation-entrepreneurship/ai-reshaping-creative-economy
+
+Routledge. (2024, November 15). *AI in the media industry: A miracle or a minefield?* Routledge Blog. https://blog.routledge.com/humanities-and-media-arts/ai-in-the-media-industry-a-miracle-or-a-minefield/
+
+Scientific American. (2024, December 12). *Survey results show people prefer more human involvement in AI-driven art*. Scientific American. https://www.scientificamerican.com/article/survey-results-show-people-prefer-more-human-involvement-in-ai-driven-art/
+
