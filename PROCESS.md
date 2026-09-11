@@ -1,2 +1,2 @@
 # AI use 
-1. used Copilot to generate a step by step list of the technical side based on the brief just in case I miss or misinterpret something
+I used Copilot to generate a step by step list of the technical side based on the brief, to make sure I did not miss a step or misunderstand them. I also used Copilot to format my sources in APA based on their URLs. The step-by-step was useful, as it broke the brief down into manageable chunks, but the reference formatting was a bit problematic, as it generated a non-alphabetized reference list, despite stating in the same response that APA reference list must always be alphabetized according to authors/organizations. So I had to ask it for a new, alphabetized list. 
