@@ -13,11 +13,41 @@ What has, nonetheless, surprised me is the shift in the third point -- that codi
 
 ## How my original stance formed, and why it made sense to me at the time
 
+Personal skepticism → Reflect on your initial belief that coding and creativity don’t mix.
+
+Contextual justification → Note how many people outside computer science share this view.
+
+Contrast with industry reality → Use Scientific American (2024) to show that even audiences are cautious about AI in creative work, preferring human involvement.
+
+Support point → This validates why your original stance felt reasonable — skepticism is widespread.
+
 ## Why my new stance is more realistic for today's creative industry
+
+Industry transformation → Use HEC Paris (Paris, 2025) to highlight how AI is reshaping creative economies, polarizing roles, and creating new opportunities.
+
+Practical experience → Connect your own learning (programming, repo setup) to broader industry trends.
+
+Evidence of inevitability → Show that creative professionals increasingly need to engage with AI tools to stay relevant.
+
+Balanced perspective → Acknowledge both benefits (innovation, efficiency) and challenges (loss of traditional roles).
 
 ## Why I think all hope is not lost for the arts (with some conditions)
 
+Film case studies → Use Bloomberg News (2026) to argue that AI can enable projects that wouldn’t otherwise exist, expanding creative possibilities.
+
+Risks vs. opportunities → Use Routledge (2024) to frame the debate as “miracle or minefield.”
+
+Conditions for hope → Stress the importance of human oversight, ethical guidelines, and hybrid approaches.
+
+Audience trust → Reconnect to Scientific American (2024) — people still want human involvement, so the arts retain their value if humans remain central.
+
 ## Conclusion
+
+Summarize the shift from skepticism to cautious optimism.
+
+Reinforce that coding and creativity can coexist, but only under conditions that respect human input and artistic integrity.
+
+Tie back to your personal journey: from “I hate AI” to “AI can be useful if guided responsibly.”
 
 # References
 
