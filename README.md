@@ -20,5 +20,7 @@ What has, nonetheless, surprised me is the shift in the third point -- that codi
 ## Conclusion
 
 # References
-
-
+https://www.hec.edu/en/dare/innovation-entrepreneurship/ai-reshaping-creative-economy
+https://www.scientificamerican.com/article/survey-results-show-people-prefer-more-human-involvement-in-ai-driven-art/
+https://bworldonline.com/bloomberg/2026/08/07/768577/ai-didnt-ruin-these-films-it-made-them-possible/
+https://blog.routledge.com/humanities-and-media-arts/ai-in-the-media-industry-a-miracle-or-a-minefield/
