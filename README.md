@@ -1,4 +1,4 @@
-# Essay
+# Essay on Creative Programming: Why Are We Here?
 
 ## Introduction
 
