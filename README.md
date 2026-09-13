@@ -4,13 +4,13 @@
 
 I am going to be very honest --before starting at PolyU, I used to comfortably say the following to anyone who would listen:
 
-I hate AI (and will never use it)
+1. I hate AI (and will never use it)
 
-I have no interest in programming or even learning how it works
+2. I have no interest in programming or even learning how it works
 
-I cannot see the use for either these things in an industry outside of computer science, especially when it comes to art, design and other creative fields.
+3. I cannot see the use for either these things in an industry outside of computer science, especially when it comes to art, design and other creative fields.
 
-But now, I am two weeks in, and already I must admit that all of these strong opinions no longer quite hold true. For starters, I have used a lot of AI -- particularly to understand what on earth is being spoken about in this Creative Programming course. And because it has helped me enough that I was able to set this repo up without panicking, I don't think it's fair to say I simply hate it anymore. Secondly, despite my tendency to avoid doing more than the bare minimum in a subject that does not interest me, I am at least a little intrigued by programming now, especially after experiencing the thrill of running code and it actually being successful.
+But now, I am two weeks in, and already I must admit that all of these strong opinions no longer quite hold true. For starters, I have used a lot of AI -- particularly to understand what on earth is being spoken about in this Creative Programming course. And because it has helped me enough that I was able to set this repo up, I don't think it's fair to say I simply hate it anymore. Secondly, despite my tendency to avoid doing more than the bare minimum in a subject that does not interest me, I am at least a little intrigued by programming now, especially after experiencing the thrill of running code and it actually being successful.
 
 What has, nonetheless, surprised me is the shift in the third point -- that coding and creativity don't go together. I now know that this is exactly what this course is trying to challenge, and that it is the same issue this assignment asks me to reflect on. So, do they go together? Can they? Should they? Do I want them to, in my own creative practice?
 
@@ -28,9 +28,9 @@ In short, I didn’t feel alone in being skeptical of connecting new technology 
 
 Despite my opposition, the industries themselves were already transforming in real time. While I was refusing to use AI for something as simple as an essay outline, AI was actively “reshaping” the creative economy (Paris, 2025) — not necessarily by replacing humans, but by amplifying production and intensifying competition. These technologies streamline processes at low cost but also raise questions around intellectual property and artistic integrity. Thus, AI is not taboo, but there is a strong sense that human creativity should be supported, rather than sidelined, by it.
 
-I would also be a hypocrite if I said I hadn’t touched AI in recent times to help me in creative processes — including the process of setting up this very repo. For the technical side, I genuinely would not have been able to understand what I needed to do step by step without panicking. For the creative side, I needed structure, even if I was going to flesh it out myself — hence, I used AI to draft a rough outline referring to the sources I had chosen.
+I would also be a hypocrite if I said I hadn’t touched AI in recent times to help me in creative processes — including the process of setting up this very repo. For the technical side, I genuinely would not have been able to understand what I needed to do step by step. For the creative side, I needed structure, even if I was going to flesh it out myself — hence, I used AI to draft a rough outline referring to the sources I had chosen.
 
-And as for the feeling that coding could not reflect the raw humanity embedded in true creativity, after watching The Art of Code by Dylan Beattie, I was enthralled not just by the layers of creativity in programming, but by the passion I saw in the speaker — the same passion I had observed in the traditional art forms I already loved.
+Watching The Art of Code by Dylan Beattie showed me the same passion in programming that I had always admired in traditional art.
 
 This made me begin to question my original stance. If AI-generated art is inevitable, then refusing to use these tools risks leaving artists invisible among the sheer scale of AI-influenced work. Artists will have to engage with AI tools not only to keep up in volume but to ensure that AI is used as a supporting, not replacing, tool. While I do not want the craft involved in traditional art to die, I realized it would if artists were completely left out of the wave of new technology. What if there was a way to connect the traditional artist to the programmer? Could this be what I would learn in this course? I certainly hope so.
 
@@ -42,7 +42,7 @@ Most importantly, audience trust remains central. As Scientific American (2024) 
 
 ## Conclusion
 
-Looking back, my journey from outright rejection of AI to cautious engagement reflects a wider tension in today’s creative industries. I began convinced that coding and creativity were incompatible, but I now see that refusing these tools entirely risks leaving artists invisible in a landscape increasingly shaped by them. At the same time, the skepticism I once held is not misplaced: audiences still crave human involvement, and ethical boundaries remain essential.
+Looking back, my journey from outright rejection of AI to cautious engagement reflects a wider tension in today’s creative industries. I once believed coding and creativity were incompatible, but I now see that refusing these tools entirely risks leaving artists invisible in a landscape increasingly shaped by them. At the same time, the skepticism I once held is not misplaced: audiences still crave human involvement, and ethical boundaries remain essential.
 
 For me, the lesson is not that creativity itself must change, but that its mediums are expanding. Coding and artistry can coexist if we insist on human oversight, intentionality, and passion. My own shift — from “I hate AI” to “AI can be useful if guided responsibly” — is proof that creative programming is not about abandoning tradition, but about expanding what tradition can become.
 
