@@ -20,7 +20,7 @@ Having grown up with a love for “old-time” media — from The Beatles and 80
 
 Furthermore, before I had even completed my first year at a liberal arts college in The Netherlands, ChatGPT was already a big part of the conversation whenever anyone worried about plagiarism and academic integrity. The consensus among my peers outside computer science was often that it was better not to use it at all. Creativity from a machine became deeply associated with laziness, or stripped of the label of creativity completely.
 
-And it wasn’t just my classmates. A Scientific American article from 2024 explains how, when asked how they would feel if they learned their favourite work of art was AI-generated, 62% of a survey group said they would like the artwork less (Scientific American, 2024). Even when people weren’t completely against AI, they still preferred human involvement in creative works.
+And it wasn’t just my classmates. A Scientific American article from 2024 explains how, when they asked a survey group how they would feel if they learned their favourite work of art was AI-generated, 62% of participants said they would like the artwork less (Scientific American, 2024). Even when people weren’t completely against AI, they still preferred human involvement in creative works.
 
 In short, I didn’t feel alone in being skeptical of connecting new technology to the ancient human act of creativity. Preserving that act felt safer than engaging with the grey areas.
 
@@ -28,9 +28,7 @@ In short, I didn’t feel alone in being skeptical of connecting new technology 
 
 Despite my opposition, the industries themselves were already transforming in real time. While I was refusing to use AI for something as simple as an essay outline, AI was actively “reshaping” the creative economy (Paris, 2025) — not necessarily by replacing humans, but by amplifying production and intensifying competition. These technologies streamline processes at low cost but also raise questions around intellectual property and artistic integrity. Thus, AI is not taboo, but there is a strong sense that human creativity should be supported, rather than sidelined, by it.
 
-I would also be a hypocrite if I said I hadn’t touched AI in recent times to help me in creative processes — including the process of setting up this very repo. For the technical side, I genuinely would not have been able to understand what I needed to do step by step. For the creative side, I needed structure, even if I was going to flesh it out myself — hence, I used AI to draft a rough outline referring to the sources I had chosen.
-
-Watching The Art of Code by Dylan Beattie showed me the same passion in programming that I had always admired in traditional art.
+I would also be a hypocrite if I said I hadn’t touched AI in recent times to help me in creative processes — including the process of setting up this very repo. For the technical side, I genuinely would not have been able to understand what I needed to do step by step. For the creative side, I needed structure, even if I was going to flesh it out myself — hence, I used AI to draft a rough outline referring to the sources I had chosen. Furthermore, watching The Art of Code by Dylan Beattie showed me the same passion in programming that I had always admired in traditional art.
 
 This made me begin to question my original stance. If AI-generated art is inevitable, then refusing to use these tools risks leaving artists invisible among the sheer scale of AI-influenced work. Artists will have to engage with AI tools not only to keep up in volume but to ensure that AI is used as a supporting, not replacing, tool. While I do not want the craft involved in traditional art to die, I realized it would if artists were completely left out of the wave of new technology. What if there was a way to connect the traditional artist to the programmer? Could this be what I would learn in this course? I certainly hope so.
 
